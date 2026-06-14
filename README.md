@@ -100,8 +100,53 @@ To clean, standardize, transform, and format the product dataset using Microsoft
 - ✔️ Enhanced data visualization using conditional formatting.
 - ✔️ Prepared the dataset for accurate reporting and further analysis.
 
-**Screenshots**
- **Handling Missing Values**
-<img width="882" height="90" alt="image" src="https://github.com/user-attachments/assets/b32a7ce3-f6a9-4b9f-a8be-bcb4567ef588" />
+  **Screenshots**
+  
+ # 📸 Project Screenshots
+
+## 1️⃣ Handling Missing Values
+### 📌 1.1 Price Column
+
+<img width="659" height="67" alt="image" src="https://github.com/user-attachments/assets/8c3706e1-2b6a-46d6-a8dc-fec8eb8ce74c" />
+
+### 📌 1.2 Category Column
+<img width="839" height="83" alt="image" src="https://github.com/user-attachments/assets/bd9e8f94-4ccb-49ea-8de3-48cf0210832a" />
+
+---
+
+## 2️⃣ Correcting Inconsistent Data
+### 📌 2.1 Product Name
+<img width="608" height="114" alt="image" src="https://github.com/user-attachments/assets/31457965-e78d-4952-967e-ed9006f123aa" />
+
+### 📌 2.2 Category
+<img width="682" height="98" alt="image" src="https://github.com/user-attachments/assets/729c5bbf-4eb6-4065-8955-3149aea20b3c" />
+
+---
+
+## 3️⃣ Removing Duplicates
+### 📌 3.1 Duplicate Records
+<img width="752" height="114" alt="image" src="https://github.com/user-attachments/assets/04448b48-df1d-4531-87ed-7d7625a47139" />
+
+
+---
+
+## 4️⃣ Splitting and Merging Data
+### 📌 4.Split Product ID  & Merge Brand Name & Product Name
+<img width="767" height="203" alt="image" src="https://github.com/user-attachments/assets/c670b8fe-d5e6-412c-b39c-0fb12857e2c3" />
+
+
+
+## 5️⃣ Number Formatting
+### 📌 5.1 Price Formatting & Manufacturing Date Formatting
+
+<img width="649" height="224" alt="image" src="https://github.com/user-attachments/assets/d3a04f9f-3530-4374-b8c4-fe0639ac5841" />
+
+
+## 6️⃣ Conditional Formatting
+### 📌 6.1 Price Column
+### 📌 6.2 Category Column
+<img width="698" height="161" alt="image" src="https://github.com/user-attachments/assets/af5b4ecf-7242-4604-adae-c15b4ecd0fb4" />
+
+
 
 
