@@ -100,6 +100,8 @@ To clean, standardize, transform, and format the product dataset using Microsoft
 - ✔️ Enhanced data visualization using conditional formatting.
 - ✔️ Prepared the dataset for accurate reporting and further analysis.
 
-
+**Screenshots**
+ **Handling Missing Values**
+<img width="882" height="90" alt="image" src="https://github.com/user-attachments/assets/b32a7ce3-f6a9-4b9f-a8be-bcb4567ef588" />
 
 
